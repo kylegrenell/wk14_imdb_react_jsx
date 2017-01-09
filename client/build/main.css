@@ -1,0 +1,42 @@
+body{
+  font-family: Helvetica, sans-serif;
+
+  background-color: white;
+  color: #136cb2;
+}
+
+.list-box{
+  background-color: #F0F0F0;
+  padding: 10px;
+  margin: 5px auto;
+  width: 300px;
+  height: 450px;
+  font-size: 15px;
+
+}
+
+.list-item{
+  font-size: 15px;
+}
+
+.title{
+  font-size: 20px;
+  color: black;
+}
+
+.film-name{
+  font-size: 20px;
+}
+
+button{
+  padding: 10px;
+  width: 150px;
+  font-size: 15px;
+  background-color: #136cb2;
+  color: white;
+}
+
+button:hover {
+    text-decoration: underline;
+}
+
